@@ -1,1 +1,0 @@
-# Multiple-Disease-Prediction-Web-App
